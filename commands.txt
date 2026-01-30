@@ -654,7 +654,6 @@ cautious-launcher
 cc
 ccache-swig3.0
 cd
-cdiff
 cg_annotate
 cg_diff
 cg_merge
@@ -688,7 +687,6 @@ cmp
 code
 col
 colcrt
-colordiff
 colrm
 column
 combine
